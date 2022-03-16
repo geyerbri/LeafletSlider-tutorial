@@ -1,4 +1,4 @@
-# LeafletSlider-tutorial
+set# LeafletSlider-tutorial
 This is a tutorial repo, written by [Brian Geyer](https://github.com/geyerbri), to introduce people to using the [Leaflet Time-Slider plugin](https://github.com/geyerbri/LeafletSlider) in a Leaflet map. Fork this repo and then work through this tutorial by writing into the blank index.html file. Once completed, your map will look like [this example map](https://geyerbri.github.io/LeafletSlider-tutorial/complete.html).
 
 NOTE: This tutorial links to my fork of the Leaflet Time-Slider plugin because, as of October 2020, neither the [original repo](https://github.com/dwilhelm89/LeafletSlider) nor the [Falke-Design-managed fork](https://github.com/Falke-Design/LeafletSlider) are being updated with fixes and improvements.
@@ -94,7 +94,7 @@ Still inside `<body>`, create a script block, for creating the map. Set its view
 
 > Note: OpenStreetMap provides tilesets for small projects and very light use; their [Tile Usage Policy](https://operations.osmfoundation.org/policies/tiles/) calls this "marginal" and specifically forbids "heavy use." The linked usage policy includes resources for finding a suitable tileset for heavy use cases, or for creating one's own server to host the OpenStreetMaps data and use it for such cases.
 
-After adding this code to your file, you can go to your repo's Settings tab, then click "Pages" near the bottom of the left-hand tab navigation list. On the Pages tab, choose "main" from the Sources dropdown list, and click "Save." Keep refreshing the page until this same section has a green bar with the text, "Your site is published at..." You can click on this link to view your page, with the map loaded. If you go to this link and the only thing that loads is the text, "If you can read this, either an error has occurred, or you're getting cute with the developer tools of your browser", then go back through these first few steps to confirm you have closely followed them.
+After adding this code to your file, you can go to your repo's Settings tab, then click "Pages", in the "Code and automation" section of the left-hand tab navigation list. On the Pages tab, choose "main" from the Sources dropdown list, and click "Save." Keep refreshing the page until this same section has a green bar with the text, "Your site is published at..." You can click on this link to view your page, with the map loaded. If you go to this link and the only thing that loads is the text, "If you can read this, either an error has occurred, or you're getting cute with the developer tools of your browser", then go back through these first few steps to confirm you have closely followed them.
 
 If the page loads with a map, then your HTML file is properly set up.
 
